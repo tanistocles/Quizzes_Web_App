@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Home - Quickzzes</title>
-    <link rel="stylesheet" href="mainStyle.css">   
+    <link rel="stylesheet" href="style.css">   
 </head>
 
 <?php

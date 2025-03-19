@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Home - Quickzzes</title>
-    <link rel="stylesheet" href="doQuizStyle.css">
+    <link rel="stylesheet" href="style.css">
     <?php
     $conn = new mysqli("localhost", "root", "", "database");
     ?>
